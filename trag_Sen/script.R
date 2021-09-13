@@ -1,3 +1,6 @@
+#Autora: Cristina Tur
+#Fecha de la última modificación: 13/09/2021
+
 install.packages("udpipe")
 library(udpipe)
 library(tidyverse)
